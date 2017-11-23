@@ -1,0 +1,10 @@
+[[[[[ ~/mps ]]]]]
+
+=> Started proxy.
+=> Started MongoDB.
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+=> Server modified -- restarting...                                   => Meteor server restarted
+=> Server modified -- restarting...                                   => Meteor server restarted
+=> Server modified -- restarting...                                   => Meteor server restarted
